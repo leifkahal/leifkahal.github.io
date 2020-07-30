@@ -1,11 +1,11 @@
 # Site settings
-author: Philip Kahal
-title: 
+author: Leif Kahal
+title: My Flatiron School Journey
 header-img: img/home-bg.png
 email: leifkahal@gmail.com
-copyright_name: Philip Kahal
+copyright_name: Leif Kahal
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Becoming a Hireable Software Engineer.
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  leifkahal
